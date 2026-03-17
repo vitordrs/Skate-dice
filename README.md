@@ -11,7 +11,7 @@
 - 📌 Combinação de base, direção, entrada e saída
 - 📌 Sistema de “chances” para simular tentativas reais
 
-!(Preview)[./preview.gif]
+![Preview](./preview.gif)
 
 ---
 
