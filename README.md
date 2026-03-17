@@ -80,9 +80,8 @@ git clone https://github.com/vitordrs/Skate-dice.git
 cd Skate-dice
 
 # Execute o projeto
-python nome_do_arquivo.py
+skate-dice.py
 ```
-
 
 ---
 
